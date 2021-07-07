@@ -1,16 +1,20 @@
 ### Hi there 👋
 
-<!--
-**chuxiaonan/chuxiaonan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Chu Xiaonan**, a front-end engineer.
 
-Here are some ideas to get you started:
+- 🔭 Working on High-Definition Map (HD Map) Technologies
+- 🌱 Leaning WebGL / WebGPU / Japanese (日本語)
+- 👯 Big fan of Sci-Fi / Board games / Indie games / Strategy games / Call of Cthulhu (7th), etc.
+- ⚓ Beijing, P.R.China
+- 👨‍🎓 SJTU / UCAS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 欢迎 👋
+
+我是**楚骁男**，一名前端开发工程师。
+
+- 🔭 从事与高精地图相关的工作
+- 🌱 正在学习 WebGL / WebGPU / 日语 (日本語)
+- 👯 爱好科幻小说 / 桌游 / 独立游戏 / 策略游戏 / CoC 7th 等
+- ⚓ 居住于北京市
+- 👨‍🎓 毕业于上海交通大学 / 中国科学院大学
