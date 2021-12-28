@@ -6,7 +6,7 @@ I'm **Chu Xiaonan**, a front-end engineer.
 - 🌱 Sticking in Dyson Sphere Program
 - 👯 Big fan of Sci-Fi / Board games / Indie games / Strategy games, etc.
 - ⚓ Beijing, P.R.China
-- 👨‍🎓 SJTU / UCAS
+- 👨‍🎓 Shanghai Jiao Tong University / University of Chinese Academy of Sciences
 
 
 ### 欢迎 👋
@@ -17,7 +17,7 @@ I'm **Chu Xiaonan**, a front-end engineer.
 - 🌱 沉迷于戴森球计划
 - 👯 爱好科幻小说 / 桌游 / 独立游戏 / 策略游戏等
 - ⚓ 居住于北京市
-- 👨‍🎓 毕业于上海交通大学 / ~~加州大学鞍山分校~~中国科学院大学
+- 👨‍🎓 毕业于上海交通大学 / 中国科学院大学
 
 
 -------------
