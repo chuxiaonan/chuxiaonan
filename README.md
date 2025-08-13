@@ -18,8 +18,3 @@ I'm **Chu Xiaonan**, a front-end engineer.
 - 👯 爱好科幻小说 / 桌游 / 独立游戏 / 策略游戏等
 - ⚓ 居住于北京市
 - 👨‍🎓 毕业于上海交通大学 / 中国科学院大学
-
-
--------------
-#### Vistors count
-<img src="https://profile-counter.glitch.me/chuxiaonan/count.svg" />
