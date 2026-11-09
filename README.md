@@ -1,20 +1,15 @@
-### Hi there 👋
+## 楚骁男 · Xiaonan Chu
 
-I'm **Chu Xiaonan**, a front-end engineer.
+高德地图数据中心仿真项目负责人，关注仿真、渲染、建模与空间数据。
 
-- 🔭 Working on Rendering/Modeling/GIS Technologies
-- 🌱 FE Team-Leader of Amap(AutoNavi) Data Center
-- 👯 Big fan of Sci-Fi / Board games / Indie games / Strategy games, etc.
-- ⚓ Beijing, P.R.China
-- 👨‍🎓 Shanghai Jiao Tong University / University of Chinese Academy of Sciences
+负责城市街道及室内场景仿真，支持机器人、自动驾驶和世界模型的训练与评测。
 
+Simulation Lead at Amap (AutoNavi) Data Center, working on urban and indoor scene simulation for robotics, autonomous driving, and world-model training and evaluation.
 
-### 欢迎 👋
+[个人网站 · 案例与文章](https://chuxiaonan.github.io)
 
-我是**楚骁男**，一名前端开发工程师。
+### 关于我
 
-- 🔭 从事与渲染/建模/地图相关的工作
-- 🌱 高德地图数据中心前端TL
-- 👯 爱好科幻小说 / 桌游 / 独立游戏 / 策略游戏等
-- ⚓ 居住于北京市
-- 👨‍🎓 毕业于上海交通大学 / 中国科学院大学
+- 居住于北京。
+- 毕业于上海交通大学、中国科学院大学。
+- 喜欢科幻、桌游、独立游戏和策略游戏。
